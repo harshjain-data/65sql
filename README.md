@@ -2,7 +2,7 @@
 A Comprehensive Guide to Mastering Advanced SQL 
 - Harsh Jain
 
- 1	Case Statement use case - 1	[Read]	(https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7009911953536008192-Csig)
+ 1	Case Statement use case - 1	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7009911953536008192-Csig)
 2	Case Statement use case - 2	[Read]	( https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7001678609769803776-BHTh?)
 3	COUNT(*) vs COUNT(column_name) vs COUNT(number) vs COUNT(string)	[Read]	( https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7022011751076360192-YbGy?)
 4	DELETE vs TRUNCATE vs DROP	[Read]	( https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6994749696128806912-WR-W?)
