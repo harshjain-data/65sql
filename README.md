@@ -14,7 +14,7 @@
 |	9.	|	View line numbers in Microsoft SQL Server	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6999825622919237632-rdpD?)	|
 |	10.	|	Concatenation and Type cast	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-learning-sql-activity-7002689706752700416-F5lC/)	|
 |	11.	|	INSERT INTO SELECT vs SELECT INTO	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7000143570875691008-xQVw?)	|
-|	12.	|	Update multiple records with a single SQL query	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6989951482561277953-KqjU?)	|
+|	12.	|	Update multiple records with a single SQL query	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7000626109574782976-UeD0?)	|
 |	13.	|	Types of subqueries	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6999422366275551232-95fI?)	|
 |	14.	|	Scalar Subquery or Single-row Subquery	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6997645424652161024-5gSB?)	|
 |	15.	|	Multiple Row Subquery	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6997970985031262208-XQhM?)	|
