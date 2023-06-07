@@ -28,8 +28,8 @@
 |	23.	|	Multilevel CTE with use case	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7009911953536008192-Csig?)	|
 |	24.	|	Remove duplicates	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-temp-temp-activity-7010789546204291072-MOGB?)	|
 |	25.	|	Nth Highest Salary	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7011041362548600833-jVLP??)	|
-|	26.	|	What is a recursive CTE in SQL?	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sqlqueries-sql-activity-6985709996177055745-htqO?)	|
-|	27.	|	Recursive CTE use case	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6978173664059961345-gXOd?)	|
+|	26.	|	What is a recursive CTE in SQL?	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6978173664059961345-gXOd?)	|
+|	27.	|	Recursive CTE use case	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6980537582195544065-5Wxd?)	|
 |	28.	|	Logical comparison with NULL value	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6978545429076443136-YnOd?)	|
 |	29.	|	CHOOSE() function	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6989951482561277953-KqjU?)	|
 |	30.	|	ROLLUP	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sqlqueries-sql-activity-6984578086591741952-jpBg?)	|
