@@ -48,25 +48,25 @@
 |	43.	|	ORDER BY clause change your window function calculations	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6990759961655992320-2L2_?)	|
 |	44.	|	ROWS clause in SQL	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6994749696128806912-WR-W?)	|
 |	45.	|	Cumulative total and running total	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6989007795547234304-wUWQ?)	|
-|	46.	|	Window Functions Cheat sheet	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7000626109574782976-UeD0?)	|
-|	47.	|	window frames work with SQL window functions	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7002675335003586560-zAdJ?)	|
-|	48.	|	Views and Materialized Views	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7011041362548600833-jVLP?)	|
-|	49.	|	Stored Procedure	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6986028973080133633-AzyZ?)	|
-|	50.	|	Stored Procedure vs View	|	[Read](https://www.linkedin.com/posts/uic-harshjain_sql-window-functions-cheat-sheet-activity-6995251526613024768-a_8P?)	|
-|	51.	|	User defined Functions	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6982199343948730368-TkPc?)	|
-|	52.	|	Temp table	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-dataanalytics-activity-6979649566627270656-2u9t?)	|
-|	53.	|	Index	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6978545429076443136-YnOd?)	|
-|	54.	|	Types of Indexes in SQL	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sqlqueries-sql-activity-6988648897350885376-y7Ci?)	|
-|	55.	|	Trigger	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6981081902711545856-z9n5?)	|
-|	56.	|	Cursor	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7008979851663613952-u9jy?)	|
-|	57.	|	PIVOT	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7001000638654410752-uzvf?)	|
-|	58.	|	APPLY operator	|	[Read](https://www.linkedin.com/posts/uic-harshjain_sql-hackerrank-90daysofsql-activity-6975720029464014848-dMw3?)	|
-|	59.	|	APPLY operator use case	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6983289958757269504-W-rQ?)	|
-|	60.	|	Keys: Primary Key, Foreign Key, Super Key, Candidate Key, Composite Key	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-learning-sql-activity-7002689706752700416-F5lC?)	|
-|	61.	|	Normalization	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6997970985031262208-XQhM?)	|
-|	62.	|	Cardinality in Data Modeling	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sqlqueries-sql-activity-6986856882065858560-WSgJ?)	|
-|	63.	|	Data Integrity	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6985371248906158080-xAY8?)	|
-|	64.	|	Referential Integrity in databases	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6995535108678057984-GjoP?)	|
-|	65.	|	Data Modeling	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6981266184033751041-afnX?)	|
+|	46.	|	Window Functions Cheat sheet	|	[Read](https://www.linkedin.com/posts/uic-harshjain_sql-window-functions-cheat-sheet-activity-6995251526613024768-a_8P?)	|
+|	47.	|	How do window frames work with SQL window functions?	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6995535108678057984-GjoP?)	|
+|	48.	|	Views and Materialized Views	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7001298246635597824-uhaN?)	|
+|	49.	|	Stored Procedure	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6981081902711545856-z9n5?)	|
+|	50.	|	Stored Procedure vs View	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6981828279502577664-lE7t?)	|
+|	51.	|	User defined Functions	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7011751165101039617-gjhV?)	|
+|	52.	|	Temp table	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6981266184033751041-afnX?)	|
+|	53.	|	Index	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7001588438965649408-2Bco?)	|
+|	54.	|	Types of Indexes in SQL	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6982199343948730368-TkPc?)	|
+|	55.	|	Trigger	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7002982186253520896-xxSz?)	|
+|	56.	|	Cursor	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7003336193216036864-5I_i?)	|
+|	57.	|	PIVOT	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7008979851663613952-u9jy?)	|
+|	58.	|	APPLY operator	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7011755045591412736-pxM4?)	|
+|	59.	|	APPLY operator use case	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7012102433715761152-J320?)	|
+|	60.	|	Keys: Primary Key, Foreign Key, Super Key, Candidate Key, Composite Key	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7004492825291612160-OY3Z?)	|
+|	61.	|	Normalization	|	[Read](https://www.linkedin.com/posts/uic-harshjain_normalization-notes-by-harsh-activity-7008622276468252672-_oWu?)	|
+|	62.	|	Cardinality in Data Modeling	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7001000638654410752-uzvf?)	|
+|	63.	|	Data Integrity	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7009540880789381120-XNyk?)	|
+|	64.	|	Referential Integrity in databases	|	[Read](https://www.linkedin.com/posts/uic-harshjain_referential-integrity-notes-activity-7009411612373651456-A35h?)	|
+|	65.	|	Data Modeling	|	[Read](https://www.linkedin.com/posts/uic-harshjain_data-modeling-notes-activity-7008814110075232256-QfWp?)	|
 
 
