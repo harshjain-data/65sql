@@ -8,10 +8,10 @@
 |	3.	|	COUNT(*) vs COUNT(column_name) vs COUNT(number) vs COUNT(string)	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sqlserver-data-activity-6976418332866478080-9TkV?)	|
 |	4.	|	DELETE vs TRUNCATE vs DROP	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6977435978697236481-Bm9U?)	|
 |	5.	|	Transaction	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6983652022453493760-D9ML?)	|
-|	6.	|	Constraints in SQL	|	[Read](https://www.linkedin.com/posts/uic-harshjain_data-modeling-notes-activity-7008814110075232256-QfWp?)	|
-|	7.	|	TOP vs OFFSET FETCH	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6977435978697236481-Bm9U?)	|
-|	8.	|	SQL Order of Execution	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6999422366275551232-95fI?)	|
-|	9.	|	View line numbers in Microsoft SQL Server	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6978173664059961345-gXOd?)	|
+|	6.	|	Constraints in SQL	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6983289958757269504-W-rQ?)	|
+|	7.	|	TOP vs OFFSET FETCH	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-dataanalytics-activity-6979649566627270656-2u9t?)	|
+|	8.	|	SQL Order of Execution	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-dataanalytics-activity-6980008614644113408-IkDg?)	|
+|	9.	|	View line numbers in Microsoft SQL Server	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6999825622919237632-rdpD?)	|
 |	10.	|	Concatenation and Type cast	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-dataanalytics-activity-6980008614644113408-IkDg?)	|
 |	11.	|	INSERT INTO SELECT vs SELECT INTO	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6977780270968033280-eJt_?)	|
 |	12.	|	Update multiple records with a single SQL query	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6989951482561277953-KqjU?)	|
