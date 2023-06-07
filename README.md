@@ -3,11 +3,11 @@
 
 | S.No. | Topic                           | URL           |
 |-------------- | ------------------------------- | ------------- |
-|	1.	|	Case Statement use case - 1	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7009911953536008192-Csig?)	|
-|	2.	|	Case Statement use case - 2	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7001678609769803776-BHTh?)	|
-|	3.	|	COUNT(*) vs COUNT(column_name) vs COUNT(number) vs COUNT(string)	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7022011751076360192-YbGy?)	|
-|	4.	|	DELETE vs TRUNCATE vs DROP	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6994749696128806912-WR-W?)	|
-|	5.	|	Transaction	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7004492825291612160-OY3Z?)	|
+|	1.	|	Case Statement use case - 1	|	[Read](https://www.linkedin.com/posts/uic-harshjain_sql-hackerrank-90daysofsql-activity-6975720029464014848-dMw3?)	|
+|	2.	|	Case Statement use case - 2	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6991107310051885056-rAfu?)	|
+|	3.	|	COUNT(*) vs COUNT(column_name) vs COUNT(number) vs COUNT(string)	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sqlserver-data-activity-6976418332866478080-9TkV?)	|
+|	4.	|	DELETE vs TRUNCATE vs DROP	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6977435978697236481-Bm9U?)	|
+|	5.	|	Transaction	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6983652022453493760-D9ML?)	|
 |	6.	|	Constraints in SQL	|	[Read](https://www.linkedin.com/posts/uic-harshjain_data-modeling-notes-activity-7008814110075232256-QfWp?)	|
 |	7.	|	TOP vs OFFSET FETCH	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6977435978697236481-Bm9U?)	|
 |	8.	|	SQL Order of Execution	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6999422366275551232-95fI?)	|
