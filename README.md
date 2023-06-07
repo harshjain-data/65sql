@@ -12,17 +12,17 @@
 |	7.	|	TOP vs OFFSET FETCH	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-dataanalytics-activity-6979649566627270656-2u9t?)	|
 |	8.	|	SQL Order of Execution	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-dataanalytics-activity-6980008614644113408-IkDg?)	|
 |	9.	|	View line numbers in Microsoft SQL Server	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6999825622919237632-rdpD?)	|
-|	10.	|	Concatenation and Type cast	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-dataanalytics-activity-6980008614644113408-IkDg?)	|
-|	11.	|	INSERT INTO SELECT vs SELECT INTO	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6977780270968033280-eJt_?)	|
+|	10.	|	Concatenation and Type cast	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-learning-sql-activity-7002689706752700416-F5lC/)	|
+|	11.	|	INSERT INTO SELECT vs SELECT INTO	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7000143570875691008-xQVw?)	|
 |	12.	|	Update multiple records with a single SQL query	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6989951482561277953-KqjU?)	|
-|	13.	|	Types of subqueries	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6994097745749835776-I7jp?)	|
-|	14.	|	Scalar Subquery or Single-row Subquery	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6987116241832349697-XhLs?)	|
-|	15.	|	Multiple Row Subquery	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6989402331033333760-Pd_9?)	|
-|	16.	|	Correlated Subquery	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6981828279502577664-lE7t?)	|
-|	17.	|	Self Join	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7002982186253520896-xxSz?)	|
-|	18.	|	Correlated subqueries vs Joins	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7009540880789381120-XNyk?)	|
-|	19.	|	List employees whose salary is more than their department's average salary	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6991107310051885056-rAfu?)	|
-|	20.	|	List regular customers with SELF-JOIN	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7011755045591412736-pxM4?)	|
+|	13.	|	Types of subqueries	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6999422366275551232-95fI?)	|
+|	14.	|	Scalar Subquery or Single-row Subquery	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6997645424652161024-5gSB?)	|
+|	15.	|	Multiple Row Subquery	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6997970985031262208-XQhM?)	|
+|	16.	|	Correlated Subquery	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6999166110373736448-3r77?)	|
+|	17.	|	Self Join	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-sqlserver-activity-6979300115077357568-diIE?)	|
+|	18.	|	Correlated subqueries vs Joins	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7001678609769803776-BHTh?)	|
+|	19.	|	List employees whose salary is more than their department's average salary	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7002409335502893056-l-6B?)	|
+|	20.	|	List regular customers with SELF-JOIN	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7002675335003586560-zAdJ?)	|
 |	21.	|	What is CTE in SQL?	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-6999166110373736448-3r77?)	|
 |	22.	|	Why CTE?	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7000143570875691008-xQVw?)	|
 |	23.	|	Multilevel CTE with use case	|	[Read](https://www.linkedin.com/posts/uic-harshjain_90daysofsql-sql-analytics-activity-7002409335502893056-l-6B?)	|
